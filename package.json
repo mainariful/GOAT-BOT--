@@ -4,7 +4,7 @@
   "description": "Anchestor Bot - A Facebook Messenger bot. Developed By Redwan Ahemed https://GitHub.com/xemonbae01/Anchestor-Resynced",
   "main": "index.js",
   "engines": {
-    "node": "18.20.x",
+    "node": "20.20.x",
     "npm": ">=16.0.0"
   },
   "dependencies": {
