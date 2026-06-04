@@ -6,7 +6,7 @@ const chalk = require("chalk");
 const axios = require("axios");
 const path = require("path");
 const fs = require("fs-extra");
-const fca = require("tetroxide-fca");
+const fca = require("anchestor-mca");
 
 (function _verifyIntegrity() {
   const _cr = require("crypto");
