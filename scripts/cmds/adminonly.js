@@ -1,5 +1,5 @@
 const fs = require("fs-extra");
-const { config } = global.Anchestor;
+const { config } = global.GoatBot;
 const { client } = global;
 
 module.exports = {
@@ -7,7 +7,7 @@ module.exports = {
 		name: "adminonly",
 		aliases: ["adonly", "onlyad", "onlyadmin"],
 		version: "1.5",
-		author: "xemonbae01",
+		author: "NTKhang",
 		countDown: 5,
 		role: 2,
 		description: {
