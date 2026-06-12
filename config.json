@@ -7,22 +7,19 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": " 𝙍𝙚𝙙𝙬𝙖𝙣 -:(💜🦑",
+  "nickNameBot": "⎯༢ 𝗤͜͡𝗨𝗘𝗘⃟𝗡 ⊰🎀",
   "prefix": "-",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61580850020938",
-    "100009801367183",
-    "61590325390056"
+    "61554138338726"
   ],
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "61580850020938",
-      "61562479149300"
+      "61554138338726"
     ]
   },
   "whiteListModeThread": {
