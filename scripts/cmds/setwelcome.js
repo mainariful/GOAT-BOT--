@@ -5,7 +5,7 @@ module.exports = {
 		name: "setwelcome",
 		aliases: ["setwc"],
 		version: "1.7",
-		author: "xemonbae01",
+		author: "NTKhang",
 		countDown: 5,
 		role: 1,
 		description: {
@@ -111,7 +111,7 @@ module.exports = {
 				}
 				else if (event.attachments.length == 0 && (!event.messageReply || event.messageReply.attachments.length == 0))
 					return message.reply(getLang("missingFile"), (err, info) => {
-						global.Anchestor.onReply.set(info.messageID, {
+						global.GoatBot.onReply.set(info.messageID, {
 							messageID: info.messageID,
 							author: senderID,
 							commandName

@@ -4,14 +4,14 @@ module.exports = {
 	config: {
 		name: "restart",
 		version: "1.1",
-		author: "xemonbae01",
+		author: "NTKhang",
 		countDown: 5,
 		role: 2,
 		description: {
 			vi: "Khởi động lại bot",
 			en: "Restart bot"
 		},
-		category: "owner",
+		category: "Owner",
 		guide: {
 			vi: "   {pn}: Khởi động lại bot",
 			en: "   {pn}: Restart bot"
